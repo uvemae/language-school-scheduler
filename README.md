@@ -17,6 +17,12 @@
 
 ---
 
+## 🔒 About this repository
+
+The application's **source code is private** (developed for a real organization). This file introduces the architecture, features, and engineering decisions, alongside a **[live demo](https://keeltekool.fly.dev/)** running on anonymized data.
+
+---
+
 ## 📸 Screenshots
 
 **Staff (Personell) views**
@@ -146,8 +152,3 @@ Three roles — **admin**, **school staff**, and **teacher** — enforced **twic
 - [ ] Full backup / restore (schedule wipe shipped; full backup planned)
 - [ ] Customization to client detailed needs
 
----
-
-## 🔒 About this repository
-
-The application's **source code is private** (developed for a real organization). This file introduces the architecture, features, and engineering decisions, alongside a **[live demo](https://keeltekool.fly.dev/)** running on anonymized data.
